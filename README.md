@@ -65,7 +65,7 @@
 
 <br/>
 <p align="left">
-  <a href="http://AndrewVreeland.com/">
+  <a href="https://www.linkedin.com/in/andrew-vreeland/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AndrewVreeland&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewVreeland&theme=radical&hide_border=true">		  
   </a>
