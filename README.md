@@ -93,7 +93,7 @@
 	<li><i><a href="https://github.com/AndrewVreeland/Horned-Beast">Horned Beast</a></i>:<ul><li>A silly app built entirely with React where you can sort creatures by the amount of horns. (released)</li></ul></li>
 </ul>
 
-hellllllloooooooooooooooooooooooooooooooooooooooooooo
+
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 
