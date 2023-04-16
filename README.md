@@ -89,8 +89,9 @@
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
 <ul>			
+	
+	<li><i><a href="https://github.com/LadsThatCode">Pin Points</a></i>:<ul><li>Our 3D model of the Earth allows users to place pinpoints on various locations with high accuracy in terms of their respective latitude and longitude coordinates. These pinpoints will contain interesting information about the location and other notable places in the nearby vicinity. (under Construction)</li></ul></li>
 	<li><i><a href="https://github.com/Off-Grid-Odyssey/Off-Grid-Odyssey">Off-Grid-Odyssey</a></i>:<ul><li>A text based adventure utilizing local storage for persistant data, the story progression is determined by user input. (Under construction)</li></ul></li>
-	<li><i><a href="https://github.com/AndrewVreeland/city-explorer">City Explorer</a></i>:<ul><li>This app generates a variety of city data based on user input. (under Construction)</li></ul></li>
 	<li><i><a href="https://github.com/AndrewVreeland/Horned-Beast">Horned Beast</a></i>:<ul><li>A silly app built entirely with React where you can sort creatures by the amount of horns. (released)</li></ul></li>
 </ul>
 
