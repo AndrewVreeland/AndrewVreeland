@@ -116,7 +116,7 @@ As a developer, I thrive on solving complex problems and creating software that 
 
 In my military experience, I had the opportunity to work with individuals from diverse backgrounds and cultures, which has given me a unique perspective that I bring to my work as a developer. I believe that my leadership abilities, attention to detail, and troubleshooting skills make me a competitive candidate for any development team.
 
-If you're interested in pursuing a career in software development, I encourage you to explore the many free resources available online to gain a deeper understanding of the field. And if you're a veteran like me, know that there are resources available through Veterans Affairs that can help you succeed in this field.
+If you're interested in pursuing a career in software development, I encourage you to explore the many free resources available online to gain a deeper understanding of the field. And if you're a military veteran like me, know that there are many resources available through Veterans Affairs that can help you succeed in this field.
 
 Thank you for taking the time to learn more about me. Please feel free to connect with me on Github or LinkedIn to discuss development, military life, or anything in between!
 
