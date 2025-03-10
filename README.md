@@ -93,16 +93,13 @@
 
 <ul>
 
-<li><i><a href="https://github.com/AndrewVreeland/asteroids">Asteroids</a></i>:<ul><li> A space shooter based off the famous game Asteroids, built in pygame, some major features include asteroid spawning, having a save state between sessions and . (released)</li></ul></li>
+<li><i><a href="https://github.com/AndrewVreeland/asteroids">Asteroids</a></i>:<ul><li> A space shooter based off the famous game Asteroids, built in pygame, some major features include asteroid spawning and save state between sessions. (released)</li></ul></li>
 
-<li><i><a href="https://github.com/LadsThatCode">Pin Points</a></i>:<ul><li>Our 3D model of the Earth allows users to place pinpoints on various locations with high accuracy in terms of their respective latitude and longitude coordinates. These pinpoints will contain interesting information about the location and other notable places in the nearby vicinity. (under Construction)</li></ul></li>
+<li><i><a href="https://github.com/LadsThatCode">Pin Points</a></i>:<ul><li>Our 3D model of the Earth allows users to place pinpoints on various locations with high accuracy in terms of their respective latitude and longitude coordinates. These pinpoints will contain interesting information about the location and other notable places in the nearby vicinity.</li></ul></li>
 
-<li><i><a href="https://github.com/AndrewVreeland/Quizzler2">Off-Grid-Odyssey</a></i>:<ul><li>An AI driven Android chat bot with a focus around trivia.</li></ul></li>
+<li><i><a href="https://github.com/AndrewVreeland/Quizzler2">Quizzler</a></i>:<ul><li>An AI driven Android chat bot with a focus around trivia. Major features include authentification, saving of chat history, and smooth UI features.</li></ul></li>
 
 </ul>
-
-
-
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 
