@@ -93,12 +93,12 @@
 
 <ul>
 
-<li><i><a href="https://github.com/Off-Grid-Odyssey/Off-Grid-Odyssey">Off-Grid-Odyssey</a></i>:<ul><li>A text based adventure utilizing local storage for persistant data, the story progression is determined by user input. (Under construction)</li></ul></li>
+<li><i><a href="https://github.com/AndrewVreeland/asteroids">Asteroids</a></i>:<ul><li> A space shooter based off the famous game Asteroids, built in pygame, some major features include asteroid spawning, having a save state between sessions and . (released)</li></ul></li>
 
 <li><i><a href="https://github.com/LadsThatCode">Pin Points</a></i>:<ul><li>Our 3D model of the Earth allows users to place pinpoints on various locations with high accuracy in terms of their respective latitude and longitude coordinates. These pinpoints will contain interesting information about the location and other notable places in the nearby vicinity. (under Construction)</li></ul></li>
 
-<li><i><a href="https://github.com/AndrewVreeland/Horned-Beast">Horned Beast</a></i>:<ul><li>A silly app built entirely with React where you can sort creatures by the amount of horns. (released)</li></ul></li>
-	
+<li><i><a href="https://github.com/Off-Grid-Odyssey/Off-Grid-Odyssey">Off-Grid-Odyssey</a></i>:<ul><li>A text based adventure utilizing local storage for persistant data, the story progression is determined by user input. (Under construction)</li></ul></li>
+
 </ul>
 
 
@@ -106,43 +106,6 @@
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 
-Hello there! My name is Andrew Vreeland, and I'm a software developer with experience in full-stack JS and Java. Before transitioning to software development, I served for 8 years in the Marine Corps and Air Force, where I honed my troubleshooting skills and developed a strong attention to detail.
-
-After being injured during my service, I decided to pursue my passion for technology and enrolled in an online coding bootcamp with Code Fellows. Despite the time difference between my home in Florida and Code Fellows' base in Washington state, I'm committed to dedicating nearly 50 hours per week to studying and improving my skills.
-
-One of my proudest achievements so far is a full-stack app that provides a weekly forecast, a map, and top movies for any city based on user input. This project required me to utilize multiple APIs, React, Bootstrap, and an active server to create a functional front-end and back-end.
-
-As a developer, I thrive on solving complex problems and creating software that users find valuable and enjoyable. I'm equally comfortable working on my own or as part of a diverse team, and I'm always eager to learn new skills and approaches to improve my craft.
-
-In my military experience, I had the opportunity to work with individuals from diverse backgrounds and cultures, which has given me a unique perspective that I bring to my work as a developer. I believe that my leadership abilities, attention to detail, and troubleshooting skills make me a competitive candidate for any development team.
-
-If you're interested in pursuing a career in software development, I encourage you to explore the many free resources available online to gain a deeper understanding of the field. And if you're a military veteran like me, know that there are many resources available through Veterans Affairs that can help you succeed in this field.
-
-Thank you for taking the time to learn more about me. Please feel free to connect with me on Github or LinkedIn to discuss development, military life, or anything in between!
-
-- 🔭 I’m currently working on improving my skills as a software developer through intensive study and hands-on projects, with the goal of landing my first job in the field.
-
-- 🌱 I’m currently learning and expanding my skills in full-stack development, with a focus on mastering React, Node.js, and Java to create dynamic and engaging web and mobile applications.
-
-- 👯 I’m looking to collaborate on open source projects and contribute to the developer community. If you have an exciting project that aligns with my skills and interests, I'd love to hear
-more and see how I can help!
-
-- 💬 Ask me about anything related to software development, my experiences in the military, or anything else you're curious about. I'm always up for a good conversation!
-
-- 😄 Pronouns: He/Him
 
 
-<!--
-**AndrewVreeland/AndrewVreeland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
