@@ -97,7 +97,7 @@
 
 <li><i><a href="https://github.com/LadsThatCode">Pin Points</a></i>:<ul><li>Our 3D model of the Earth allows users to place pinpoints on various locations with high accuracy in terms of their respective latitude and longitude coordinates. These pinpoints will contain interesting information about the location and other notable places in the nearby vicinity. (under Construction)</li></ul></li>
 
-<li><i><a href="https://github.com/Off-Grid-Odyssey/Off-Grid-Odyssey">Off-Grid-Odyssey</a></i>:<ul><li>A text based adventure utilizing local storage for persistant data, the story progression is determined by user input. (Under construction)</li></ul></li>
+<li><i><a href="https://github.com/AndrewVreeland/Quizzler2">Off-Grid-Odyssey</a></i>:<ul><li>An AI driven Android chat bot with a focus around trivia.</li></ul></li>
 
 </ul>
 
