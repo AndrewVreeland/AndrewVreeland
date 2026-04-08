@@ -85,7 +85,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{AndrewVreeland}/count.svg"></p>
 
-## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
+## Current Projects
 <ul>			
 	
 
@@ -98,8 +98,6 @@
 <li><i><a href="https://github.com/AndrewVreeland/Quizzler2">Quizzler</a></i>:<ul><li>An AI driven Android chat bot with a focus around trivia. Major features include authentification, saving of chat history, and smooth UI features.</li></ul></li>
 
 </ul>
-
-## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 
 
 
